@@ -1,2 +1,2 @@
-# circuitos-digitais
-Projetos de Circuitos Digitais
+# Circuitos Digitais
+Projetos de Circuitos Digitais 2018.2
