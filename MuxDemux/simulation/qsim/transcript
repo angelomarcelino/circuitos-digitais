@@ -1,0 +1,41 @@
+# do MuxDemux.do 
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module demux
+# 
+# Top level modules:
+# 	demux
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module demux_vlg_sample_tst
+# -- Compiling module demux_vlg_check_tst
+# -- Compiling module demux_vlg_vec_tst
+# 
+# Top level modules:
+# 	demux_vlg_vec_tst
+# vsim -L cycloneii_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate -c -t 1ps -novopt work.demux_vlg_vec_tst 
+# Loading work.demux_vlg_vec_tst
+# Loading work.demux
+# Loading cycloneii_ver.cycloneii_io
+# Loading cycloneii_ver.cycloneii_mux21
+# Loading cycloneii_ver.cycloneii_dffe
+# Loading cycloneii_ver.cycloneii_asynch_io
+# Loading cycloneii_ver.cycloneii_lcell_comb
+# Loading work.demux_vlg_sample_tst
+# Loading work.demux_vlg_check_tst
+# ** Warning: (vsim-3017) MuxDemux.vt(207): [TFMPC] - Too few port connections. Expected 3, found 2.
+# 
+#         Region: /demux_vlg_vec_tst/i1
+# ** Warning: (vsim-3722) MuxDemux.vt(207): [TFMPC] - Missing connection for port 'd'.
+# 
+# Loading cycloneii_ver.CYCLONEII_PRIM_DFFE
+# ERROR! Vector Mismatch for output port s[1] :: @time = 110000.000 ps
+#      Expected value = 000x
+#      Real value = x111
+# ERROR! Vector Mismatch for output port s[2] :: @time = 110000.000 ps
+#      Expected value = 000x
+#      Real value = x111
+# ERROR! Vector Mismatch for output port s[3] :: @time = 110000.000 ps
+#      Expected value = 000x
+#      Real value = x111
+#           3 mismatched vectors : Simulation failed !
+# ** Note: $finish    : MuxDemux.vt(189)
+#    Time: 1 us  Iteration: 0  Instance: /demux_vlg_vec_tst/tb_out

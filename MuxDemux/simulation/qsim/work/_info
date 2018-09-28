@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Angelo\_github\My_stuff\MuxDemux\simulation\qsim
+vdemux
+Z1 I]cQ:okVY]FDi]ael;27kz0
+Z2 V7;O::4^MWlN[LOjlP4>Y;1
+Z3 dC:\Angelo\_github\My_stuff\MuxDemux\simulation\qsim
+Z4 w1535335557
+Z5 8MuxDemux.vo
+Z6 FMuxDemux.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+!i10b 1
+Z9 !s100 CS=?j0[Vj5EPH0hf2`=`Y3
+!s85 0
+Z10 !s108 1535335566.952000
+Z11 !s107 MuxDemux.vo|
+Z12 !s90 -work|work|MuxDemux.vo|
+!s101 -O0
+vdemux_vlg_check_tst
+!i10b 1
+!s100 5VIJH`_I]VXPLHghe5`cj0
+IHAic4ZNI4HRIXjfnmZIWR3
+VUob=`mZXLl9eeXP<_mjZG0
+R3
+Z13 w1535335554
+Z14 8MuxDemux.vt
+Z15 FMuxDemux.vt
+L0 59
+R7
+r1
+!s85 0
+31
+Z16 !s108 1535335567.803000
+Z17 !s107 MuxDemux.vt|
+Z18 !s90 -work|work|MuxDemux.vt|
+!s101 -O0
+R8
+vdemux_vlg_sample_tst
+!i10b 1
+!s100 N?CAjJOf3n8?UPW`G4BWj3
+I^QRek8^;1[7IE9Wh2ahBd1
+VDZWLXM9N3I5S@co2U`0e50
+R3
+R13
+R14
+R15
+L0 29
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
+vdemux_vlg_vec_tst
+!i10b 1
+!s100 V@[k1VJZJKej8JE1;JSec0
+I@Q;cod_0cJ8bI=ALW0<=`0
+V42BCQLV>=CHd28ajgo0dU3
+R3
+R13
+R14
+R15
+L0 193
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8

@@ -1,0 +1,15 @@
+vendor_name = ModelSim
+source_file = 1, C:/Angelo/_github/My stuff/BINBCD1.bdf
+source_file = 1, C:/Angelo/_github/My stuff/Waveform.vwf
+source_file = 1, C:/Angelo/_github/My stuff/Waveform1.vwf
+source_file = 1, C:/Angelo/_github/My stuff/db/BINBCD1.cbx.xml
+design_name = BINBCD1
+instance = comp, \SW1~I\, SW1, BINBCD1, 1
+instance = comp, \SW0~I\, SW0, BINBCD1, 1
+instance = comp, \l0~I\, l0, BINBCD1, 1
+instance = comp, \l1~I\, l1, BINBCD1, 1
+instance = comp, \l2~I\, l2, BINBCD1, 1
+instance = comp, \l3~I\, l3, BINBCD1, 1
+instance = comp, \l4~I\, l4, BINBCD1, 1
+instance = comp, \l5~I\, l5, BINBCD1, 1
+instance = comp, \l6~I\, l6, BINBCD1, 1

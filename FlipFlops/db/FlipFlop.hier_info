@@ -1,0 +1,22 @@
+|Counter2_VHDL
+Clock_enable_B => temp[3].ENA
+Clock_enable_B => temp[0].ENA
+Clock_enable_B => temp[1].ENA
+Clock_enable_B => temp[2].ENA
+Clock => temp[3].CLK
+Clock => temp[2].CLK
+Clock => temp[1].CLK
+Clock => temp[0].CLK
+Reset => temp[3].ACLR
+Reset => temp[2].ACLR
+Reset => temp[1].ACLR
+Reset => temp[0].ACLR
+Output[6] <= Output.DB_MAX_OUTPUT_PORT_TYPE
+Output[5] <= Output.DB_MAX_OUTPUT_PORT_TYPE
+Output[4] <= Output.DB_MAX_OUTPUT_PORT_TYPE
+Output[3] <= Output.DB_MAX_OUTPUT_PORT_TYPE
+Output[2] <= Output.DB_MAX_OUTPUT_PORT_TYPE
+Output[1] <= Output.DB_MAX_OUTPUT_PORT_TYPE
+Output[0] <= Output.DB_MAX_OUTPUT_PORT_TYPE
+
+
